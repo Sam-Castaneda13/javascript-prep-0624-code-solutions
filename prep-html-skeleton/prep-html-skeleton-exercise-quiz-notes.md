@@ -4,13 +4,13 @@
 
 Answer the following questions in the provided markdown file before turning in this exercise:
 
-- What tags are necessary for a complete HTML Skeleton?
+- What tags are necessary for a complete HTML Skeleton? <!DOCTYPE HTML> <html> <title> <body> <header>
 
-- What type of content belongs within the `<head>` of an HTML document?
+- What type of content belongs within the `<head>` of an HTML document? The information about the document
 
-- What type of content belongs within the `<body>` of an HTML document?
+- What type of content belongs within the `<body>` of an HTML document? The other information that will be shown like paragraph
 
-- Where must the `DOCTYPE` declaration appear in a valid HTML document?
+- Where must the `DOCTYPE` declaration appear in a valid HTML document? Right at the beginning
 
 ## Notes
 
