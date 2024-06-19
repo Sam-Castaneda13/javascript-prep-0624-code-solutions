@@ -6,7 +6,7 @@ Answer the following questions in the provided markdown file before turning in t
 
 - What does the `=` (equals) operator do in JavaScript? sets the value to the variable
 
-- What operator will return the data type of a variable value?
+- What operator will return the data type of a variable value? It would be the typeof operator
 
 - Which keyword is used to declare a variable in JavaScript? Var
 
